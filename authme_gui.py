@@ -26,12 +26,12 @@ SCRIPT_DIR      = os.path.dirname(os.path.abspath(__file__))
 PASSWORDS_FILE  = os.path.join(SCRIPT_DIR, "passwords.txt")
 WORK_DIR        = r"C:\tmp\hashcat_work"
 
-DEFAULT_HASHCAT = r"C:\Users\erolc\OneDrive\Masaüstü\hashcat-7.1.2\hashcat.exe"
+DEFAULT_HASHCAT = r""
 
 AUTO_DB_FILES = [
-    r"C:\Users\erolc\Downloads\legenfgg_site.db",
-    r"C:\Users\erolc\OneDrive\Masaüstü\GAME ElitMC Survival\plugins\AuthMe\legenfgg_site.db",
-    r"C:\Users\erolc\OneDrive\Masaüstü\GAME ElitMC Survival\plugins\AuthMe\legenfgg_sitelctr.db",
+    r"",
+    r"",
+    r"",
 ]
 
 # ──────────────────────────────────────────────────────────────────
